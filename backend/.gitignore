@@ -1,0 +1,12 @@
+/.idea/
+/node_modules/
+/build/
+/tmp/
+/.idea/
+/node_modules/
+/build/
+/tmp/
+/temp/
+/.cloudflare/build/
+
+.DS_Store

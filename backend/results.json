@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://stackoverflow.com",
+    "status": 403,
+    "responseTime": 53,
+    "contentLength": 1920
+  },
+  {
+    "url": "https://countingup.com",
+    "status": 200,
+    "responseTime": 80,
+    "contentLength": 66826
+  },
+  {
+    "url": "https://www.gov.uk",
+    "status": 200,
+    "responseTime": 85,
+    "contentLength": 89009
+  },
+  {
+    "url": "https://www.bbc.co.uk",
+    "status": 200,
+    "responseTime": 96,
+    "contentLength": 563104
+  },
+  {
+    "url": "https://www.apple.com/uk/",
+    "status": 200,
+    "responseTime": 103,
+    "contentLength": 89585
+  },
+  {
+    "url": "https://beta.companieshouse.gov.uk",
+    "status": 301,
+    "responseTime": 103,
+    "contentLength": 134
+  },
+  {
+    "url": "https://www.gov.uk/doesnotexist",
+    "status": 404,
+    "responseTime": 60,
+    "contentLength": 62521
+  },
+  {
+    "url": "https://www.hashicorp.com",
+    "status": 200,
+    "responseTime": 229,
+    "contentLength": 289863
+  },
+  {
+    "url": "https://www.docker.com",
+    "status": 200,
+    "responseTime": 267,
+    "contentLength": 243798
+  },
+  {
+    "url": "https://twitter.com",
+    "status": 200,
+    "responseTime": 448,
+    "contentLength": 139570
+  },
+  {
+    "url": "https://aws.amazon.com",
+    "status": 200,
+    "responseTime": 1154,
+    "contentLength": 286054
+  }
+]

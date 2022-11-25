@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "lib": [
+            "esnext"
+        ],
+        "allowJs": true,
+        "skipLibCheck": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "strict": false,
+        "forceConsistentCasingInFileNames": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": false,
+        "noEmit": true,
+        "jsx": "preserve",
+        "typeRoots" : ["./node_modules/@types"]
+    },
+    "include": [
+        "src",
+        "scripts",
+        "node_modules"
+    ]
+}
